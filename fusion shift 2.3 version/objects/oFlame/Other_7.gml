@@ -1,0 +1,1 @@
+if (active_timer > 0) animation_clamp = true;

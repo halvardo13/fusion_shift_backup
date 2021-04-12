@@ -1,0 +1,1 @@
+global.startup_happed = true;

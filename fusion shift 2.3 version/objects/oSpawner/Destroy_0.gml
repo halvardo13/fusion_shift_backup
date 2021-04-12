@@ -1,0 +1,1 @@
+global.spawnerCount -= 1;

@@ -1,0 +1,1 @@
+DissolveShader(sprite_index,0,x,y,scale,scale,0,c_white,1,disolve);

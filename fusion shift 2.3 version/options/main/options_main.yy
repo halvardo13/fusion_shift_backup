@@ -1,0 +1,16 @@
+{
+  "option_gameguid": "8251b315-c9b7-4ae9-829b-a6c5589478cc",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 4278190080,
+  "option_steam_app_id": "1254070",
+  "option_sci_usesci": false,
+  "option_author": "halvard mjelde",
+  "option_lastchanged": "05 March 2020 14:05:26",
+  "option_spine_licence": true,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}
